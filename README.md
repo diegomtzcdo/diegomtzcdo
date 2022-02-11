@@ -3,6 +3,7 @@
 - 🌱 Trato de aprender nuevos frameworks y mejorar como react
 - 💞️ uwu
 - 📫 cdodiegomtz@gmail.com
+- 🌎 https://diegomtzcdo.github.io/portafolio/
 
 <!---
 diegomtzcdo/diegomtzcdo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
